@@ -1,0 +1,25 @@
+INFO:geocoder.base:Requested http://ipinfo.io/json
+INFO:geocoder.base:Requested http://ipinfo.io/json
+INFO:geocoder.base:Requested http://ipinfo.io/json
+INFO:geocoder.base:Requested http://ipinfo.io/json
+INFO:geocoder.base:Requested http://ipinfo.io/json
+INFO:geocoder.base:Requested http://ipinfo.io/json
+INFO:root:[backspace]
+INFO:root:g
+INFO:root:o
+INFO:root:o
+INFO:root:g
+INFO:root:l
+INFO:root:e
+INFO:root:[space]
+INFO:geocoder.base:Requested http://ipinfo.io/json
+INFO:root:t
+INFO:root:r
+INFO:root:a
+INFO:root:n
+INFO:root:s
+INFO:root:l
+INFO:root:a
+INFO:root:t
+INFO:root:e
+INFO:geocoder.base:Requested http://ipinfo.io/json

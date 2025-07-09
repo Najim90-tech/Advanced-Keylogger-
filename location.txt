@@ -1,0 +1,11 @@
+=== Location Information ===
+Timestamp: 2025-07-09 09:40:38
+
+IP Address: 106.215.183.190
+City: Pune
+Region/State: Maharashtra
+Country: IN
+Timezone: Asia/Kolkata
+Coordinates: 18.5196, 73.8554
+
+Google Maps: https://www.google.com/maps/place/18.5196,73.8554
